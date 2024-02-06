@@ -38,11 +38,14 @@ body {
 .resetBtn,
 .autoPlayBtn {
   margin: 3px;
-  padding: 8px 15px;
-  background: white;
-  color: black;
+  padding: 12px 30px;
   border: none;
   cursor: pointer;
+  border-radius: 5px;
+  font-weight: 500;
+  color: antiquewhite;
+  background-color: black;
+  font-size: 20px;
 }
 
 .js-score {
